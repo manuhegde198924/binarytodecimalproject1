@@ -1,0 +1,42 @@
+.converter {
+  display: flex;
+  justify-content: space-evenly;
+  width: 250vh;
+  height: 45vh;
+  border: 4px solid black;
+  background: yellow;
+}
+.inputs {
+  width: 45%;
+  height: 25%;
+}
+
+.result {
+  width: 250vh;
+  height: 35vh;
+  color: rgb(3, 3, 39);
+  background: rgb(76, 17, 202);
+  border: 4px solid black;
+}
+h4 {
+  color: rgb(54, 5, 28);
+}
+h2 {
+  color: red;
+}
+body {
+  overflow: hidden;
+}
+h1 {
+  color: rgb(154, 99, 17);
+}
+@media (max-width: 600px) {
+  .converter {
+    max-width: 100%;
+    padding: 10px;
+  }
+  .result {
+    max-width: 100%;
+    padding: 10px;
+  }
+}
