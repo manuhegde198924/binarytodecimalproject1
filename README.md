@@ -1,3 +1,10 @@
+SPECIAL THANKS TO FLORIN POP AND JIM MEDLOCK FOR THIS SMALL APP IDEA
+THIS SMALL PROJECT WAS HELPFUL FOR EXPERIMENTING AND IMPROVING MY CODING SKILLS AND LEARN NEW FRONT-END-TECHNOLOGIES
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
